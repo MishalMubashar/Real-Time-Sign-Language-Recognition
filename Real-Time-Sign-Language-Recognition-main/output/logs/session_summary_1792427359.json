@@ -1,0 +1,13 @@
+{
+  "session_duration_seconds": 76.62301683425903,
+  "average_fps": 9.505934664681892,
+  "total_frames": 796,
+  "recognition_events": 1,
+  "most_recognized": [
+    [
+      "A",
+      1
+    ]
+  ],
+  "final_sentence": ""
+}
