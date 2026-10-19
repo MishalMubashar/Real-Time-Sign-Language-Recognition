@@ -1,7 +1,8 @@
 
 <div align="center">
-
-<img src="Project intro.png" alt="Invisibility Cloak Using Computer Vision" width="100%">
-
+  <img
+    src="Project intro .png"
+    alt="Real-Time Sign Language Recognition — A to Z English Alphabet Detection"
+    width="100%"
+  />
 </div>
-
